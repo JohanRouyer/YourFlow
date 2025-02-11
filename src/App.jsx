@@ -1,10 +1,9 @@
-import styles from './App.module.css'
-
+import {NavBar} from "./Navbar/NavBar.jsx";
 
 function App() {
     return (
         <div>
-
+        <NavBar/>
         </div>
     );
 }
